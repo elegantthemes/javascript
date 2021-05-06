@@ -1,6 +1,6 @@
 {
   "name": "@elegantthemes/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Elegant Themes' ESLint config, following our style guide",
   "main": "index.js",
   "scripts": {
@@ -55,7 +55,7 @@
   },
   "homepage": "https://github.com/elegantthemes/javascript",
   "dependencies": {
-    "@elegantthemes/eslint-config-base": "1.0.3",
+    "@elegantthemes/eslint-config-base": "1.0.4",
     "object.assign": "4.1.0",
     "object.entries": "1.1.2"
   },
@@ -65,7 +65,7 @@
     "babel-preset-airbnb": "4.5.0",
     "babel-tape-runner": "3.0.0",
     "eclint": "2.8.1",
-    "eslint": "5.16.0 || 6.8.0 || 7.5.0",
+    "eslint": "5.16.0 || 6.8.0 || 7.9.0",
     "eslint-find-rules": "3.6.0",
     "eslint-plugin-align-assignments": "1.1.2",
     "eslint-plugin-jsdoc": "30.2.4",
@@ -79,7 +79,7 @@
     "tape": "5.0.1"
   },
   "peerDependencies": {
-    "eslint": "5.16.0 || 6.8.0 || 7.5.0",
+    "eslint": "5.16.0 || 6.8.0 || 7.9.0",
     "eslint-plugin-import": "2.22.0",
     "eslint-plugin-jsx-a11y": "6.3.1",
     "eslint-plugin-react": "7.20.3",
